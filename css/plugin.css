@@ -1,3 +1,5 @@
+@charset 'UTF-8';
+
 /* Magnific Popup CSS */
 
 .mfp-bg {
@@ -596,8 +598,6 @@ screen and (max-height: 300px) {
     display: none;
 }
 
-@charset 'UTF-8';
-
 /* Slider */
 
 .slick-loading .slick-list {
@@ -774,8 +774,6 @@ screen and (max-height: 300px) {
     opacity: .75;
     color: black;
 }
-
-@charset "UTF-8";
 
 /*!
 Animate.css - http://daneden.me/animate
