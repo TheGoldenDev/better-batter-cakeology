@@ -902,7 +902,7 @@ fieldset[disabled] .btn-default.active {
   font-size: 18px;
   line-height: 2;
   color: #828281;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   margin: 0px 20px;
   padding-bottom: 2px;
@@ -1611,7 +1611,6 @@ fieldset[disabled] .btn-default.active {
   .menu-tags2 span,
   .menu-tags3 span,
   .menu-tags4 span {
-    font-size: 15px;
     margin: 0px 8px 6px;
     display: inline-block;
   }
@@ -1641,6 +1640,10 @@ fieldset[disabled] .btn-default.active {
     font-size: 22px;
     display: table;
     padding-top: 10px;
+  }
+
+  .menu-tags4 span {
+    display: block;
   }
 
   .contact-info p {
