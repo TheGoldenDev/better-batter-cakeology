@@ -6,6 +6,13 @@
  * ------------------------------------
  */
 
+
+/*
+ * ------------------------------------
+ * To be set up 
+ * ------------------------------------
+ */
+
 $apiKey       = 'YOUR_MAILCHIMP_API_KEY_HERE'; /*Your Mailchiimp API Key*/
 $listId       = 'MAILCHIMP_LIST_ID_HERE'; /*Mailchimp List ID*/
 $double_optin = true; /*Set False if you don't need to verify user enmail */
